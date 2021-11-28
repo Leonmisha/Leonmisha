@@ -2,6 +2,7 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" />
 
+<a href="https://www.linkedin.com/in/mykhailo-pylkevych/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat-square&logo=LinkedIn" alt="LinkedIn"></a>
 <a href="https://t.me/PylkevychMykhailo" target="_blank"><img src="https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=telegram" alt="Telegram"></a>
 <a href="https://github.com/leonmisha/" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub"></a>
 
