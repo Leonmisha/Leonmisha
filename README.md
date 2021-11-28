@@ -8,7 +8,7 @@
 
 ## About Me
 
-I'm **Mykhailo Pylkevych**, a **Frontend Developer** living in **Kyiv, Ukraine**.
+I'm **Mykhailo Pylkevych**, a **Frontend Developer** living in **Kyiv, Ukraine**. Currently looking for a job.
 
 I have 2 years of experience in web development.
 
