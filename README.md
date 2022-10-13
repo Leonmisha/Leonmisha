@@ -9,9 +9,7 @@
 
 ## About Me
 
-I'm **Mykhailo Pylkevych**, a **Frontend Developer** living in **Kyiv, Ukraine**. Currently working in WebLab Technology company.
-Working on <a href="https://www.shamanhealth.com/">Shaman Presentation Platform</a>.
-
+I'm **Mykhailo Pylkevych**, a **Frontend Developer** living in **Kyiv, Ukraine**. Currently I'm looking for a project/job.
 I have almost 3 years of experience in web development.
 
 In Developing I'm interested in process automation and quality of technical base of a project. I like Functional Reactive Programming.
