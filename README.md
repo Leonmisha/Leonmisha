@@ -9,7 +9,7 @@
 
 ## About Me
 
-I'm **Mykhailo Pylkevych**, a **Frontend Developer** living in **Warsaw, Poland**, from **Ukraine**.<br/>
+I'm **Mykhailo Pylkevych**, a **Frontend Developer** living in **Poland** from **Ukraine**.<br/>
 Currently I'm looking for a project/job.<br/>
 I have 4 years of experience in web development.
 
